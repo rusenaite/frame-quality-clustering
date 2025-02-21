@@ -1,0 +1,39 @@
+Frame Analysis Report
+====================
+
+Cluster 0 (Avg Blur Score: 401.04)
+  - frame_0001.jpg: Blur Score 436.66
+  - frame_0002.jpg: Blur Score 403.28
+  - frame_0003.jpg: Blur Score 390.92
+  - frame_0004.jpg: Blur Score 384.20
+  - frame_0005.jpg: Blur Score 377.51
+  - frame_0012.jpg: Blur Score 484.19
+  - frame_0013.jpg: Blur Score 469.88
+  - frame_0014.jpg: Blur Score 459.69
+  - frame_0015.jpg: Blur Score 448.30
+  - frame_0016.jpg: Blur Score 453.60
+
+Cluster 1 (Avg Blur Score: 256.28)
+  - frame_0069.jpg: Blur Score 320.14
+  - frame_0070.jpg: Blur Score 311.01
+  - frame_0071.jpg: Blur Score 309.85
+  - frame_0072.jpg: Blur Score 309.17
+  - frame_0073.jpg: Blur Score 302.39
+  - frame_0074.jpg: Blur Score 295.90
+  - frame_0075.jpg: Blur Score 294.32
+  - frame_0076.jpg: Blur Score 298.12
+  - frame_0077.jpg: Blur Score 289.36
+  - frame_0078.jpg: Blur Score 280.65
+
+Cluster 2 (Avg Blur Score: 569.71)
+  - frame_0000.jpg: Blur Score 513.90
+  - frame_0006.jpg: Blur Score 547.46
+  - frame_0007.jpg: Blur Score 550.12
+  - frame_0008.jpg: Blur Score 554.22
+  - frame_0009.jpg: Blur Score 528.75
+  - frame_0010.jpg: Blur Score 515.48
+  - frame_0011.jpg: Blur Score 491.23
+  - frame_0060.jpg: Blur Score 503.81
+  - frame_0146.jpg: Blur Score 505.15
+  - frame_0147.jpg: Blur Score 508.85
+
