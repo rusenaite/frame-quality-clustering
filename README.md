@@ -11,7 +11,10 @@ This Python application processes video files to extract frames and analyze thei
 
  ## Preview 
 
-[]   
+[Link to download highlighted blurred parts video](https://raw.githubusercontent.com/rusenaite/frame-quality-clustering/refs/heads/main/highlighted_video.mp4)
+
+<img src="blurred.png" alt="Highlighted blurred part" width="300"/>
+<img src="not_blurred.png" alt="Non blurrred part" width="300"/>
 
 ## Output Files
 
